@@ -2,19 +2,18 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.itranswarp.maven_push</groupId>
-	<artifactId>maven_push_github</artifactId>
+
+	<groupId>com.qiaokeli1029.maven_push</groupId>
+	<artifactId>maven-push-github</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>maven_push_github</name>
+	<name>maven-push-github</name>
 
 	<developers>
 		<developer>
 			<name>qiaokeli1029</name>
 			<email>3647044768@qq.com</email>
-			<organization>iTranswarp</organization>
-			<organizationUrl>http://www.qiaokeli1029.com</organizationUrl>
 		</developer>
 	</developers>
 
